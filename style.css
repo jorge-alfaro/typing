@@ -19,10 +19,10 @@ span {
   font-family: monospace;
   white-space: nowrap;
   border-right: 4px solid;
-  width: 40ch;
+  width: 65ch;
   font-size: 26px;
 
-  animation: typing 4s steps(40), blink 0.5s infinite step-end alternate;
+  animation: typing 5.5s steps(65), blink 0.5s infinite step-end alternate;
   overflow: hidden;
 }
 
